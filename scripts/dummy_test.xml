@@ -1,0 +1,3 @@
+<testsuite tests="1" failures="0">
+  <testcase classname="demo" name="test1"/>
+</testsuite>
